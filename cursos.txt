@@ -1,0 +1,17 @@
+Bash Linux 
+    - https://www.youtube.com/watch?v=L906Kti3gzE
+    - https://www.youtube.com/watch?v=3gRhwwkeiog&list=PLDbrnXa6SAzU71YLePBL_BDT4Qc5fYtRf&index=1
+Git & Github 
+    - https://www.youtube.com/watch?v=3GymExBkKjE
+Docker
+    - https://www.youtube.com/watch?v=4Dko5W96WHg
+    - https://www.youtube.com/watch?v=CV_Uf3Dq-EU
+Python
+    - https://www.youtube.com/watch?v=Kp4Mvapo5kc
+    - https://www.youtube.com/watch?v=TbcEqkabAWU
+API Python 
+    - https://www.youtube.com/watch?v=_y9qQZXE24A
+AWS 
+    - https://www.youtube.com/watch?v=EDfV2zJOBPA&list=PLdOotbFwzDIgjeTHvCSLiGmKKzTpDsLLI
+SQL
+    - https://www.youtube.com/watch?v=DFg1V-rO6Pg
